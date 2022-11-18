@@ -4,7 +4,8 @@ It should simulate and support CRUD operations
 * Create a note
 * Load notes
 * Edit notes
-* Delete notes
+* Delete notes   
+
 You should be able to see a list of notes and be able to click on and view any of the notes in the list
 
 ### We encourage using the following technologies, with minimal other dependencies:
