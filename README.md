@@ -20,7 +20,7 @@ You should be able to see a list of notes and be able to click on and view any o
 * Performance
 * Git good practices
 * Completion of the task
-* Styled visualization of selection
+* First run docs/ Readme
 
 #### Submission
 Fork it, make it private and share it with me!
